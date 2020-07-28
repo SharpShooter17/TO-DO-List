@@ -1,0 +1,9 @@
+
+.editable-input input {
+    width: 100%;
+}
+
+
+.completed {
+    text-decoration: line-through;
+}
